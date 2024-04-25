@@ -1,0 +1,9 @@
+# ignore jenkins home
+jenkins/home/*
+jeknins/data/*
+jenkins/data
+jenkins/repos/*
+jenkins/scripts/build_be/*
+jenkins/scripts/build_fe/*
+jenkins/.env
+.DS_Store
